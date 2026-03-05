@@ -11,7 +11,8 @@ export default defineConfig({
       },
     }),
     tailwindcss(),
-    base: '/loancalculator/',
   ],
+  base: '/loancalculator/',
 });
+
 
