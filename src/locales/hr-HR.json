@@ -1,0 +1,46 @@
+{
+  "translation": {
+    "app": {
+      "title": "Kalkulator kredita",
+      "subtitle": "Jednostavna izrada otplatnog plana"
+    },
+    "loanForm": {
+      "title": "Parametri kredita",
+      "amountLabel": "Iznos kredita (€)",
+      "rateLabel": "Kamatna stopa (%)",
+      "termLabel": "Rok otplate",
+      "yearsLabel": "god.",
+      "monthsLabel": "mj.",
+      "totalMonthsHelper": "Ukupno: {{totalMonths}} mjeseci",
+      "paymentDayLabel": "Dan naplate anuiteta (1–28)",
+      "disbursementDateLabel": "Datum isplate kredita",
+      "calculateButton": "Izračunaj",
+      "resetToToday": "Resetiraj na danas"
+    },
+    "repaymentPlan": {
+      "title": "Otplatni plan",
+      "columns": {
+        "number": "#",
+        "date": "Datum",
+        "annuity": "Anuitet (€)",
+        "principal": "Glavnica (€)",
+        "interest": "Kamata (€)",
+        "remainingBalance": "Ostatak duga (€)"
+      },
+      "totals": "Ukupno",
+      "intercalaryNote": "* Redak 0 predstavlja interkalarnu kamatu"
+    },
+    "statistics": {
+      "title": "Statistika",
+      "selectedDate": "Odabrani dan",
+      "remainingPrincipal": "Preostala glavnica",
+      "remainingInterest": "Preostale kamate",
+      "remainingPayOff": "Otplata danas",
+      "accumulatedInterest": "Akumulirane kamate",
+      "totalPrincipal": "Ukupan iznos glavnice",
+      "totalInterest": "Ukupan iznos kamata",
+      "monthlyAnnuity": "Mjesečni anuitet",
+      "totalPayment": "Ukupan iznos otplate"
+    }
+  }
+}
